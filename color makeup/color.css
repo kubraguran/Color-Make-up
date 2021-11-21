@@ -1,0 +1,56 @@
+
+
+.nav-center {
+margin:0;
+padding: 0;
+align-items: center;
+text-align: center;
+margin-top:10rem;
+}
+
+.container {
+margin:0;
+padding: 0;
+align-items: center;
+text-align: center;
+}
+li {
+list-style-type: none;
+}
+
+h4 {
+    color: hotpink;
+    
+}
+.shadow-sm {
+   margin-left:25rem;
+   margin-right:25rem;
+   opacity: 80%;
+   
+    
+}
+
+li{
+    display:contents;
+    font-size:2rem;
+    float:left;
+   
+    
+}
+
+li a{
+    color:lightgrey;
+    text-decoration: none;
+    padding:1rem
+    
+}
+
+ li a:hover{
+    color:crimson;
+}
+
+h2 {
+    font-family: monospace;
+    padding-left:2rem;
+    color: lightgrey;
+}
